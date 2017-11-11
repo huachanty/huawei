@@ -28,8 +28,8 @@
       <file leaf-file-name="suanfa.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/suanfa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2660754">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.16629712">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -568,12 +568,12 @@
       <created>1510394919775</created>
       <option name="number" value="Default" />
       <updated>1510394919775</updated>
-      <workItem from="1510394921064" duration="880000" />
+      <workItem from="1510394921064" duration="991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="880000" />
+    <option name="totallyTimeSpent" value="991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1123" y="23" width="797" height="574" extended-state="0" />
@@ -613,8 +613,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/suanfa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2660754">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.16629712">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
           <folding />
         </state>
       </provider>

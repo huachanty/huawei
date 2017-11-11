@@ -3,6 +3,6 @@
  */
 public class suanfa {
     public static void (String[] args){
-        System.out.println("huachengtingisdog");
+        System.out.println("huachengtingisdog   kkk");
     }
 }
